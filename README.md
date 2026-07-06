@@ -16,6 +16,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0387-first-unique-character-in-a-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0567-permutation-in-string/) | Medium |
+| [1759-count-number-of-homogenous-substrings](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -56,4 +57,8 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1759-count-number-of-homogenous-substrings](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 <!---LeetCode Topics End-->
