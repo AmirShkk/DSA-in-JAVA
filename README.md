@@ -12,6 +12,7 @@ problem solving in Leetcode and geeksforgeeks
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0006-zigzag-conversion/) | Medium |
 | [0014-longest-common-prefix](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0022-generate-parentheses](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0022-generate-parentheses/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0443-string-compression/) | Medium |
@@ -63,4 +64,12 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1759-count-number-of-homogenous-substrings](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
