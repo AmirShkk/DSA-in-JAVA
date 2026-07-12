@@ -1,23 +1,14 @@
 class Solution {
-    public int findDuplicate(int[] arr) {
-       int i=0;
-       int duplicate=-1;
-       while(i<arr.length){
-        if(arr[i]-1!=i){
-            int index=arr[i]-1;
-            int temp=arr[i];
-            arr[i]=arr[index];
-            arr[index]=temp;
-            if(arr[i]==arr[index]){
-                duplicate=arr[index];
+    public int findDuplicate(int[] nums) {
+        int[] flag=new int[nums.length+1];
+        int duplicateElement=-1;
+        for(int i=0;i<nums.length;i++){
+            flag[nums[i]]++;
+            if(flag[nums[i]]>1){
+                duplicateElement=nums[i];
                 break;
             }
         }
-        else{
-            i++;
-        }
-       }
-
-       return duplicate;
+        return duplicateElement;
     }
 }
