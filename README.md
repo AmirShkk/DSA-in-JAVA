@@ -35,6 +35,7 @@ problem solving in Leetcode and geeksforgeeks
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0493-reverse-pairs](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0493-reverse-pairs/) | Hard |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -43,6 +44,7 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0493-reverse-pairs](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0493-reverse-pairs/) | Hard |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -89,4 +91,24 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0493-reverse-pairs/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
