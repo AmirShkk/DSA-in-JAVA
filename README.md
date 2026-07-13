@@ -8,6 +8,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0387-first-unique-character-in-a-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0567-permutation-in-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0567-permutation-in-string/) | Medium |
+| [0645-set-mismatch](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -39,6 +40,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0287-find-the-duplicate-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0493-reverse-pairs](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0493-reverse-pairs/) | Hard |
+| [0645-set-mismatch](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -92,10 +94,12 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0645-set-mismatch](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0645-set-mismatch](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
