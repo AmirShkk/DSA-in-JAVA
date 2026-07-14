@@ -3,7 +3,7 @@ class Solution {
     int i=0;
     int pos=0;
     while(i<nums.length){
-        if((long)nums[i]-1==i || nums[i]>=nums.length || (long)nums[i]-1<0  ){
+        if(nums[i]==i+1 || nums[i]>=nums.length || nums[i]<=0  ){
             i++;
         }
         else if(nums[i]-1!=i){
