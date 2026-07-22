@@ -15,10 +15,6 @@ class Solution {
        int size=0;
        ListNode slow=head;
        ListNode fast=head;
-       while(slow!=null){
-        size++;
-        slow=slow.next;
-       } 
        slow=head;
        while(copyofk!=1){
         fast=fast.next;
