@@ -19,9 +19,7 @@ class Solution {
         Temp=Temp.next;
         size++;
     }
-    if(k>=size){
-        k=k%size;
-    }
+    k=k%size;
     ListNode dummynode=new ListNode(0);
     while(k!=0 && fast!=null){
         fast=fast.next;
