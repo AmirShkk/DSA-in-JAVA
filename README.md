@@ -137,6 +137,7 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
@@ -146,4 +147,8 @@ problem solving in Leetcode and geeksforgeeks
 | [0876-middle-of-the-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
