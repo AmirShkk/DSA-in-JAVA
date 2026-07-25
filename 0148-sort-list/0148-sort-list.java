@@ -46,21 +46,16 @@ class Solution {
     if(head==null) return null;    
     if(head.next==null) return head;
     ListNode temp=head;
-    int size=0;
-    while(temp!=null){
-        size++;
-        temp=temp.next;
-    } 
-    ListNode a=head;
-    int i=1;
-    while(i<size/2){
-        a=a.next;
-        i++;
-    }  
-    ListNode b=a.next;
-    a.next=null;
+    ListNode slow=head;
+    ListNode fast=head;
+    while(fast.next!=null && fast.next.next!=null){
+        slow=slow.next;
+        fast=fast.next.next;
+    }
+    ListNode head1=slow.next;
+    slow.next=null;
     ListNode left=sortList(head);
-    ListNode right=sortList(b);
+    ListNode right=sortList(head1);
     return mergesort(left,right);
   }
 }
