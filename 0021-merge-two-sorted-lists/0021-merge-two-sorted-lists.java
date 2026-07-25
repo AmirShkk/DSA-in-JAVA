@@ -25,12 +25,7 @@ class Solution {
         temp.next=list1;
         return dummynode.next;
     }
-    if(list1.val<=list2.val){
-        dummynode.next=list1;
-    }
-    else{
-        dummynode.next=list2;
-    }
+    
     while(i!=null && j!=null){
         if(i.val<=j.val){
             temp.next=i;
