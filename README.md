@@ -64,6 +64,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -145,6 +146,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0061-rotate-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0086-partition-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
