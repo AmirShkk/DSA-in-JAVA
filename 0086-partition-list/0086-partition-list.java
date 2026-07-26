@@ -27,6 +27,7 @@ class Solution {
         }
         temp=temp.next;
     } 
+    i.next=null;
     j.next=null;
     i.next=dummynode2.next;
     return dummynode1.next;
