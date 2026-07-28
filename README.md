@@ -151,6 +151,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0141-linked-list-cycle](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -161,4 +162,5 @@ problem solving in Leetcode and geeksforgeeks
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0206-reverse-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
