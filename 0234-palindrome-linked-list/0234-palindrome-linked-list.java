@@ -27,31 +27,16 @@ class Solution {
         fast=fast.next.next;
         slow=slow.next;
     }
-    if(fast.next==null){
-        flag=false;
-    }
+    if(fast.next==null) flag=false;
     fast=slow.next;
     slow.next=null;
     slow=recursion(head);
-    if(flag){
+    if(!flag) slow=slow.next;   
     while(fast!=null){
         if(fast.val!=slow.val){
-          return false;
-        }
+        return false;}
         fast=fast.next;
         slow=slow.next;
-    }
-    }
-    else{
-    slow=slow.next;    
-    while(fast!=null){
-        if(fast.val!=slow.val){
-          return false;
-        }
-        fast=fast.next;
-        slow=slow.next;
-    }
     }
     return true;
-}
-}
+}}
