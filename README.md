@@ -91,6 +91,7 @@ problem solving in Leetcode and geeksforgeeks
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Simulation
@@ -100,6 +101,7 @@ problem solving in Leetcode and geeksforgeeks
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0445-add-two-numbers-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1759-count-number-of-homogenous-substrings](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -166,6 +168,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0234-palindrome-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
