@@ -41,6 +41,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0014-longest-common-prefix](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0041-first-missing-positive/) | Hard |
+| [0238-product-of-array-except-self](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0493-reverse-pairs](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0493-reverse-pairs/) | Hard |
@@ -185,4 +186,8 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
