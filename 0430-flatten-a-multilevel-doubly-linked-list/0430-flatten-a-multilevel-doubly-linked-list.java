@@ -1,7 +1,7 @@
 
 class Solution {
     public Node recursion(Node head){
-    if(head==null) return head;    
+    // if(head==null) return head;    
     Node curr=head;
     while(curr!=null) {
         if(curr.child==null) curr=curr.next;
