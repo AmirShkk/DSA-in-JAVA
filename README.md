@@ -43,6 +43,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0041-first-missing-positive](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0041-first-missing-positive/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0414-third-maximum-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0493-reverse-pairs](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0493-reverse-pairs/) | Hard |
 | [0645-set-mismatch](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0645-set-mismatch/) | Easy |
@@ -123,6 +124,7 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0148-sort-list/) | Medium |
+| [0414-third-maximum-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0414-third-maximum-number/) | Easy |
 | [0645-set-mismatch](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Divide and Conquer
