@@ -175,6 +175,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0445-add-two-numbers-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
