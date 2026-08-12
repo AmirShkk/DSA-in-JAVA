@@ -25,6 +25,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0387-first-unique-character-in-a-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0567-permutation-in-string/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1759-count-number-of-homogenous-substrings](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
@@ -95,6 +96,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0143-reorder-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Simulation
