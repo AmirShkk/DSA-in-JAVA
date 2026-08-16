@@ -53,6 +53,7 @@ problem solving in Leetcode and geeksforgeeks
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -100,6 +101,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0503-next-greater-element-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Simulation
@@ -215,5 +217,6 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2487-remove-nodes-from-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 <!---LeetCode Topics End-->
