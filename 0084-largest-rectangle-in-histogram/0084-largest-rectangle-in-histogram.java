@@ -10,19 +10,17 @@ class Solution {
         else prevsmallest[i]=i-st1.peek()-1;
         st1.push(i);
     }
-    int [] nextsmallest=new int[heights.length];
     Stack<Integer> st2=new Stack<>();
     st2.push(heights.length-1);
-    nextsmallest[heights.length-1]=0;
     for(int i=heights.length-2;i>=0;i--){
         while(st2.size()!=0 && heights[i]<=heights[st2.peek()]) st2.pop();
-        if(st2.size()==0) nextsmallest[i]=heights.length-1-i;
-        else  nextsmallest[i]=st2.peek()-i-1;
+        if(st2.size()==0) prevsmallest[i]+=heights.length-1-i;
+        else  prevsmallest[i]+=st2.peek()-i-1;
         st2.push(i);
     }
     int maxarea=Integer.MIN_VALUE;
     for(int i=0;i<heights.length;i++){
-        int width=nextsmallest[i]+prevsmallest[i]+1;
+        int width=prevsmallest[i]+1;
         int area=width*heights[i];
         maxarea=Math.max(area,maxarea);
     }
