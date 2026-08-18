@@ -43,6 +43,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0014-longest-common-prefix](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0041-first-missing-positive/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0414-third-maximum-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0414-third-maximum-number/) | Easy |
@@ -95,6 +96,7 @@ problem solving in Leetcode and geeksforgeeks
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -216,7 +218,12 @@ problem solving in Leetcode and geeksforgeeks
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2487-remove-nodes-from-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
