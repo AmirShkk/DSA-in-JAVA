@@ -31,14 +31,21 @@ class Solution {
     public int maximalRectangle(char[][] matrix) {
     int [][] arr=new int[matrix.length][matrix[0].length];
     int max=Integer.MIN_VALUE;
+    // it will make the height for that element 
+    // for ex :1
+    //         1
+    //         1
+    // so the height of the last 1 is 3 bcoz it have 2 time once just above
     for(int j=0;j<matrix[0].length;j++){
         int prefixsum=0;
-        for(int i=0;i<matrix.length;i++){
+        for(int i=matrix.length-1;i>=0;i--){
           if(matrix[i][j]=='1')prefixsum++;
           else prefixsum=0;
           arr[i][j]=prefixsum;
         }
     }
+    /*in this it will sent the ith row of matrix and apply the logic of largest histogram which is q84 and 
+    calculate the max area of that row after thatthe max variable inside this loop will calculate the maximum area in the matrix array*/
     for(int i=0;i<matrix.length;i++){
         max=Math.max(max,maximalrect(arr[i]));
         System.out.println(max);
