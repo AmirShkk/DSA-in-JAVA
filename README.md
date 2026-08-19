@@ -100,6 +100,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0084-largest-rectangle-in-histogram](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0085-maximal-rectangle/) | Hard |
 | [0143-reorder-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0143-reorder-list/) | Medium |
+| [0155-min-stack](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -234,4 +235,8 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0085-maximal-rectangle/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
