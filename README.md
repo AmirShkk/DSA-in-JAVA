@@ -33,6 +33,7 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ problem solving in Leetcode and geeksforgeeks
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Binary Search
@@ -114,12 +116,14 @@ problem solving in Leetcode and geeksforgeeks
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0445-add-two-numbers-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1759-count-number-of-homogenous-substrings](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,6 +208,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0143-reorder-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
