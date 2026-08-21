@@ -25,7 +25,7 @@ class Solution {
         slow.next=slow.next.next;
          return head;
      } 
-     while(n==0){
+     while(true){
         if(fast.next==null){
             slow.next=slow.next.next;
             break;
