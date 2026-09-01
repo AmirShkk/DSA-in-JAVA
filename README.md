@@ -32,6 +32,7 @@ problem solving in Leetcode and geeksforgeeks
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Counting
@@ -105,6 +106,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0085-maximal-rectangle](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0085-maximal-rectangle/) | Hard |
 | [0143-reorder-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -246,4 +248,5 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
