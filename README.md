@@ -228,6 +228,7 @@ problem solving in Leetcode and geeksforgeeks
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0100-same-tree/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -255,4 +256,16 @@ problem solving in Leetcode and geeksforgeeks
 | [0155-min-stack](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0100-same-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0100-same-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
