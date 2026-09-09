@@ -230,6 +230,7 @@ problem solving in Leetcode and geeksforgeeks
 | ------- | ------- |
 | [0100-same-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0101-symmetric-tree/) | Easy |
+| [0112-path-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0112-path-sum/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -262,14 +263,17 @@ problem solving in Leetcode and geeksforgeeks
 | ------- | ------- |
 | [0100-same-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0101-symmetric-tree/) | Easy |
+| [0112-path-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0112-path-sum/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0101-symmetric-tree/) | Easy |
+| [0112-path-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0112-path-sum/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0101-symmetric-tree/) | Easy |
+| [0112-path-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
