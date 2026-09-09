@@ -22,6 +22,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0022-generate-parentheses](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0022-generate-parentheses/) | Medium |
 | [0038-count-and-say](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0038-count-and-say/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0257-binary-tree-paths](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0567-permutation-in-string/) | Medium |
@@ -140,6 +141,7 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0022-generate-parentheses/) | Medium |
+| [0257-binary-tree-paths](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -231,6 +233,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0100-same-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0112-path-sum/) | Easy |
+| [0257-binary-tree-paths](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -264,6 +267,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0100-same-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0112-path-sum/) | Easy |
+| [0257-binary-tree-paths](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,4 +280,5 @@ problem solving in Leetcode and geeksforgeeks
 | [0100-same-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0112-path-sum/) | Easy |
+| [0257-binary-tree-paths](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
