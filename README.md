@@ -266,6 +266,7 @@ problem solving in Leetcode and geeksforgeeks
 | ------- | ------- |
 | [0100-same-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0101-symmetric-tree/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0112-path-sum/) | Easy |
 | [0257-binary-tree-paths](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 ## Breadth-First Search
@@ -273,12 +274,14 @@ problem solving in Leetcode and geeksforgeeks
 | ------- | ------- |
 | [0100-same-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0101-symmetric-tree/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0112-path-sum/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0101-symmetric-tree/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0112-path-sum/) | Easy |
 | [0257-binary-tree-paths](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
