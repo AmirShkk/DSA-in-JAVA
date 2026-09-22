@@ -21,7 +21,7 @@ class Solution {
         int leftlevel=height(root.left);
         int rightlevel=height(root.right);
         if(leftlevel!=-1 && rightlevel!=-1 && Math.abs(leftlevel-rightlevel)<=1){
-            return 1+Math.max(height(root.left),height(root.right));
+            return 1+Math.max(leftlevel,rightlevel);
         }
         return -1;
     }
