@@ -234,6 +234,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0101-symmetric-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0112-path-sum/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0257-binary-tree-paths](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -271,6 +272,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0112-path-sum/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0257-binary-tree-paths](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -280,6 +282,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0101-symmetric-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0112-path-sum/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +291,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0112-path-sum/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0257-binary-tree-paths](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## DP on Trees
