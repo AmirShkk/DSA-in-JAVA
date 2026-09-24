@@ -27,30 +27,17 @@ class Solution {
         return 1+Math.max(level(root.left),level(root.right));
     }
     public List<Integer> rightSideView(TreeNode root) {
-     List<Integer> arr=new ArrayList<>();
-     if(root==null) return arr;
-     int level=level(root);
-     recursion(root,arr,level);
-     return arr;   
+    int level=level(root);
+     List<Integer> arr=new ArrayList<>(Collections.nCopies(level,0));
+    if(root==null) return arr;
+    recursion(root,arr,0);
+    return arr;   
     }
     public void recursion(TreeNode root,List<Integer> arr,int level){
-        int currentlevel=0;
-        Stack<pair> st=new Stack<>();
-        st.push(new pair(root,1));
-        while(st.size()>0){
-            pair top=st.pop();
-            if(top.level>currentlevel){
-            System.out.println(currentlevel);
-            arr.add(top.node.val);
-            currentlevel++;
-            if(currentlevel==level){
-                    break;
-            }
-  }
-            if(top.node.left!=null) st.push(new pair(top.node.left,top.level+1));
-            if(top.node.right!=null) st.push(new pair(top.node.right,top.level+1));
-
-        }
+        if(root==null) return ;
+        arr.set(level,root.val);
+        recursion(root.left,arr,level+1);
+        recursion(root.right,arr,level+1);
+    }
 
     }
-}
