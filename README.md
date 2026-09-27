@@ -187,6 +187,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0021-merge-two-sorted-lists](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
@@ -214,6 +215,7 @@ problem solving in Leetcode and geeksforgeeks
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
