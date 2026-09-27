@@ -14,6 +14,7 @@ class Solution {
     ListNode t=start.next;
     ListNode rev=reverse(start.next,end);
     t.next=start;
+    start.next=null;
     return rev;
 }
     public ListNode reverseKGroup(ListNode head, int k) {
