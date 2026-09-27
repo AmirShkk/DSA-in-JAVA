@@ -141,6 +141,7 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0022-generate-parentheses/) | Medium |
+| [0113-path-sum-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Bit Manipulation
@@ -236,6 +237,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0101-symmetric-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
@@ -275,6 +277,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
@@ -295,6 +298,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
