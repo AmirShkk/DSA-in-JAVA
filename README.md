@@ -107,6 +107,7 @@ problem solving in Leetcode and geeksforgeeks
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0085-maximal-rectangle/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0225-implement-stack-using-queues/) | Easy |
@@ -233,6 +234,7 @@ problem solving in Leetcode and geeksforgeeks
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -272,6 +274,7 @@ problem solving in Leetcode and geeksforgeeks
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
@@ -293,6 +296,7 @@ problem solving in Leetcode and geeksforgeeks
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
