@@ -20,8 +20,7 @@ class Solution {
         TreeNode root=new TreeNode(val);
         int count=0;
         int i=inlo;
-        while(i<=inhi) {
-            if(val==inorder[i]) break;
+        while(inorder[i]!=val) {
             count++;
             i++;
         }
