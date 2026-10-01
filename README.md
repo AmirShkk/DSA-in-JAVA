@@ -297,6 +297,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Breadth-First Search
@@ -323,6 +324,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## DP on Trees
@@ -340,6 +342,7 @@ problem solving in Leetcode and geeksforgeeks
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
