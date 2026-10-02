@@ -13,21 +13,31 @@
  *     }
  * }
  */
-class Solution {
-    public boolean leftsubtree(TreeNode root,int val){
-     if(root==null) return true;
-     if(root.val>=val) return false;
-     return leftsubtree(root.left,val) && leftsubtree(root.right,val);
+// class Solution {
+//     public boolean leftsubtree(TreeNode root,int val){
+//      if(root==null) return true;
+//      if(root.val>=val) return false;
+//      return leftsubtree(root.left,val) && leftsubtree(root.right,val);
+//     }
+//     public boolean rightsubtree(TreeNode root,int val){
+//      if(root==null) return true;
+//      if(root.val<=val) return false;
+//      return rightsubtree(root.left,val) && rightsubtree(root.right,val);
+//     }
+//     public boolean isValidBST(TreeNode root) {
+//     if(root==null) return true;
+//     if(!leftsubtree(root.left,root.val)) return false;
+//     if(!rightsubtree(root.right,root.val)) return false;
+//     return isValidBST(root.left) && isValidBST(root.right);
+//  }
+// }
+ class Solution{
+    public boolean bst(TreeNode root, long min,long  max){
+      if(root==null) return true;
+      if(min>=root.val || root.val>=max ) return false;
+      return bst(root.left,min,root.val) && bst(root.right,root.val,max);
     }
-    public boolean rightsubtree(TreeNode root,int val){
-     if(root==null) return true;
-     if(root.val<=val) return false;
-     return rightsubtree(root.left,val) && rightsubtree(root.right,val);
+    public boolean isValidBST(TreeNode root){
+     return bst(root,Long.MIN_VALUE,Long.MAX_VALUE);
     }
-    public boolean isValidBST(TreeNode root) {
-    if(root==null) return true;
-    if(!leftsubtree(root.left,root.val)) return false;
-    if(!rightsubtree(root.right,root.val)) return false;
-    return isValidBST(root.left) && isValidBST(root.right);
  }
-}
