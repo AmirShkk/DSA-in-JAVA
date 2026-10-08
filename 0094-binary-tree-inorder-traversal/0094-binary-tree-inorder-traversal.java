@@ -37,6 +37,7 @@
 //     return arr;        
 //     }
 // }
+  //Morris Travesal
     class Solution{
       public List<Integer> inorderTraversal(TreeNode root){
         List<Integer> arr=new ArrayList<>();
