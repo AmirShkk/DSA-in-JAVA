@@ -309,6 +309,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -341,6 +342,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -366,6 +368,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
