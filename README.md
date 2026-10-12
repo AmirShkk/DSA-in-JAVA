@@ -62,6 +62,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0493-reverse-pairs](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0493-reverse-pairs/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0645-set-mismatch](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0645-set-mismatch/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0735-asteroid-collision](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0735-asteroid-collision/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -79,6 +80,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0493-reverse-pairs](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0493-reverse-pairs/) | Hard |
+| [0658-find-k-closest-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -98,6 +100,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0287-find-the-duplicate-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0443-string-compression](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -106,6 +109,7 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +172,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0148-sort-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0148-sort-list/) | Medium |
 | [0414-third-maximum-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0414-third-maximum-number/) | Easy |
 | [0645-set-mismatch](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0645-set-mismatch/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Divide and Conquer
@@ -244,6 +249,7 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0658-find-k-closest-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1046-last-stone-weight/) | Easy |
 ## Prefix Sum
