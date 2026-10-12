@@ -11,6 +11,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0138-copy-list-with-random-pointer](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0567-permutation-in-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0567-permutation-in-string/) | Medium |
@@ -42,6 +43,7 @@ problem solving in Leetcode and geeksforgeeks
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -57,6 +59,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0493-reverse-pairs](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0493-reverse-pairs/) | Hard |
@@ -170,6 +173,7 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0148-sort-list/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0414-third-maximum-number/) | Easy |
 | [0645-set-mismatch](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -183,6 +187,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0148-sort-list/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0493-reverse-pairs/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Binary Indexed Tree
@@ -249,6 +254,7 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1046-last-stone-weight/) | Easy |
@@ -392,9 +398,14 @@ problem solving in Leetcode and geeksforgeeks
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## K-D Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
