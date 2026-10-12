@@ -332,6 +332,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0543-diameter-of-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -341,6 +342,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,6 +367,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0543-diameter-of-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
