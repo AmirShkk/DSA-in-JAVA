@@ -41,25 +41,24 @@
     class Solution{
       public List<Integer> inorderTraversal(TreeNode root){
         List<Integer> arr=new ArrayList<>();
-        TreeNode curr=root;
-        while(curr!=null){
-            if(curr.left!=null){
-                TreeNode pre=curr.left;
-                while(pre.right!=null && pre.right!=curr)  pre=pre.right; 
-                 if(pre.right==curr){
+        while(root!=null){
+            if(root.left!=null){
+                TreeNode pre=root.left;
+                while(pre.right!=null && pre.right!=root)  pre=pre.right; 
+                 if(pre.right==root){
                     pre.right=null;
-                    arr.add(curr.val);
-                    curr=curr.right;
+                    arr.add(root.val);
+                    root=root.right;
                 }
                 else{
-                    pre.right=curr;
-                    curr=curr.left;
+                    pre.right=root;
+                    root=root.left;
                 }
             }
             else{
-                arr.add(curr.val);
-                System.out.println(curr.val);
-                curr=curr.right;
+                arr.add(root.val);
+                System.out.println(root.val);
+                root=root.right;
             }
         }
         return arr;
