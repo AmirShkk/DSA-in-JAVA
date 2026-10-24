@@ -5,6 +5,7 @@ problem solving in Leetcode and geeksforgeeks
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0041-first-missing-positive/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -49,6 +50,7 @@ problem solving in Leetcode and geeksforgeeks
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0041-first-missing-positive/) | Hard |
