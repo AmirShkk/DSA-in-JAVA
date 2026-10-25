@@ -16,6 +16,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0347-top-k-frequent-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0567-permutation-in-string/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0645-set-mismatch](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0645-set-mismatch/) | Easy |
@@ -69,6 +70,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0493-reverse-pairs](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0493-reverse-pairs/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0645-set-mismatch](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -89,6 +91,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0493-reverse-pairs](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0493-reverse-pairs/) | Hard |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -109,6 +112,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0287-find-the-duplicate-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0443-string-compression](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0443-string-compression/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -185,6 +189,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0295-find-median-from-data-stream](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0414-third-maximum-number/) | Easy |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0645-set-mismatch](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
