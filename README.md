@@ -12,6 +12,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0138-copy-list-with-random-pointer](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0242-valid-anagram](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -27,6 +28,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0022-generate-parentheses](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0022-generate-parentheses/) | Medium |
 | [0038-count-and-say](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0038-count-and-say/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0443-string-compression/) | Medium |
@@ -179,6 +181,7 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0148-sort-list/) | Medium |
+| [0242-valid-anagram](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0242-valid-anagram/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0414-third-maximum-number/) | Easy |
