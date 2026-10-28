@@ -6,6 +6,7 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0041-first-missing-positive/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -24,6 +25,7 @@ problem solving in Leetcode and geeksforgeeks
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0006-zigzag-conversion/) | Medium |
 | [0014-longest-common-prefix](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0022-generate-parentheses/) | Medium |
@@ -122,6 +124,7 @@ problem solving in Leetcode and geeksforgeeks
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0567-permutation-in-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0567-permutation-in-string/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
