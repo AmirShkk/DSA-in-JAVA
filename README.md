@@ -21,6 +21,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0567-permutation-in-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0567-permutation-in-string/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0645-set-mismatch](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0645-set-mismatch/) | Easy |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## String
@@ -53,6 +54,7 @@ problem solving in Leetcode and geeksforgeeks
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +88,7 @@ problem solving in Leetcode and geeksforgeeks
 | [1552-magnetic-force-between-two-balls](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -167,6 +170,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0973-k-closest-points-to-origin](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1759-count-number-of-homogenous-substrings](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -449,4 +453,16 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 <!---LeetCode Topics End-->
