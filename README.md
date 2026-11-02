@@ -76,6 +76,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0493-reverse-pairs](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0493-reverse-pairs/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0645-set-mismatch](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -98,6 +99,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0287-find-the-duplicate-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0493-reverse-pairs](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0493-reverse-pairs/) | Hard |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1539-kth-missing-positive-number/) | Easy |
