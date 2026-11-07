@@ -193,6 +193,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0231-power-of-two](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0645-set-mismatch/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
