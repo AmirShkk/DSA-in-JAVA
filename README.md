@@ -170,6 +170,7 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0342-power-of-four/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1759-count-number-of-homogenous-substrings](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
@@ -196,6 +197,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0191-number-of-1-bits](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0342-power-of-four](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0342-power-of-four/) | Easy |
 | [0645-set-mismatch](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
@@ -285,6 +287,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0206-reverse-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0342-power-of-four](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0342-power-of-four/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Heap (Priority Queue)
