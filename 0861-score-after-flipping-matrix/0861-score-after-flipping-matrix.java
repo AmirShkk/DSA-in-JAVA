@@ -1,14 +1,12 @@
 class Solution {
     public void fliprow(int [][]arr,int row){
         for(int i=0;i<arr[row].length;i++){
-            if(arr[row][i]==0) arr[row][i]=1;
-            else arr[row][i]=0;
+            arr[row][i]^=1;
         }
     }
     public void flipcol(int [][]arr,int col){
         for(int i=0;i<arr.length;i++){
-            if(arr[i][col]==1) arr[i][col]=0;
-            else arr[i][col]=1;
+            arr[i][col]^=1;
         }
     }
     public int maxnum(int [][] arr,int col){
