@@ -384,6 +384,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0938-range-sum-of-bst](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -423,6 +424,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0938-range-sum-of-bst](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
