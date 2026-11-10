@@ -62,6 +62,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0014-longest-common-prefix](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0041-first-missing-positive/) | Hard |
+| [0046-permutations](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0085-maximal-rectangle/) | Hard |
@@ -187,6 +188,7 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0022-generate-parentheses/) | Medium |
+| [0046-permutations](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
