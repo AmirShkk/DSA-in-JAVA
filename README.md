@@ -60,6 +60,7 @@ problem solving in Leetcode and geeksforgeeks
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0031-next-permutation](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0046-permutations/) | Medium |
@@ -112,6 +113,7 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0031-next-permutation](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0086-partition-list/) | Medium |
