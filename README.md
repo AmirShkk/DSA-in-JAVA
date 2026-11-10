@@ -70,6 +70,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0260-single-number-iii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0414-third-maximum-number/) | Easy |
@@ -197,6 +198,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0190-reverse-bits](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0342-power-of-four/) | Easy |
 | [0645-set-mismatch](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0645-set-mismatch/) | Easy |
