@@ -32,6 +32,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0014-longest-common-prefix](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0022-generate-parentheses/) | Medium |
 | [0038-count-and-say](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0043-multiply-strings/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
@@ -168,12 +169,14 @@ problem solving in Leetcode and geeksforgeeks
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0043-multiply-strings/) | Medium |
 | [0735-asteroid-collision](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0735-asteroid-collision/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0043-multiply-strings/) | Medium |
 | [0231-power-of-two](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0342-power-of-four/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
