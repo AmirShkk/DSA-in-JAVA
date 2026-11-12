@@ -94,6 +94,7 @@ problem solving in Leetcode and geeksforgeeks
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1673-find-the-most-competitive-subsequence](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
@@ -164,6 +165,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0735-asteroid-collision](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0735-asteroid-collision/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1673-find-the-most-competitive-subsequence](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -350,6 +352,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0402-remove-k-digits](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1673-find-the-most-competitive-subsequence](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2487-remove-nodes-from-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Range Minimum/Maximum Query
@@ -492,6 +495,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0402-remove-k-digits](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0402-remove-k-digits/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0861-score-after-flipping-matrix](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [1673-find-the-most-competitive-subsequence](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
