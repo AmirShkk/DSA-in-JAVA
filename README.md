@@ -66,6 +66,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0046-permutations/) | Medium |
+| [0056-merge-intervals](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0085-maximal-rectangle/) | Hard |
@@ -219,6 +220,7 @@ problem solving in Leetcode and geeksforgeeks
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0056-merge-intervals/) | Medium |
 | [0148-sort-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0148-sort-list/) | Medium |
 | [0242-valid-anagram](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0242-valid-anagram/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -508,4 +510,8 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
