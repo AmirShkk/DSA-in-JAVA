@@ -74,6 +74,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0200-number-of-islands](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0200-number-of-islands/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0260-single-number-iii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -333,6 +334,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0113-path-sum-ii](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -367,6 +369,7 @@ problem solving in Leetcode and geeksforgeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0085-maximal-rectangle/) | Hard |
+| [0200-number-of-islands](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0200-number-of-islands/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0861-score-after-flipping-matrix/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -414,6 +417,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
@@ -521,6 +525,7 @@ problem solving in Leetcode and geeksforgeeks
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0547-number-of-provinces/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
