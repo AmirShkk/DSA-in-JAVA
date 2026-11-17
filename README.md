@@ -91,6 +91,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0735-asteroid-collision](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0735-asteroid-collision/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0994-rotting-oranges](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1046-last-stone-weight](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1046-last-stone-weight/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -371,6 +372,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0085-maximal-rectangle](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0085-maximal-rectangle/) | Hard |
 | [0200-number-of-islands](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0200-number-of-islands/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [0994-rotting-oranges](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0994-rotting-oranges/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -421,6 +423,7 @@ problem solving in Leetcode and geeksforgeeks
 | [0547-number-of-provinces](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [0994-rotting-oranges](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/0994-rotting-oranges/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AmirShkk/DSA-in-JAVA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree
